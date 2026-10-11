@@ -1,13 +1,14 @@
 ## 🚀 Run
 
-Linux
-
+Linux (Ubuntu/Debian)
 ```bash
-
-Operating System	Command
-Windows (PowerShell)	start index.html
-Windows (Command Prompt)	start index.html
-macOS	open index.html
-Linux (Ubuntu/Debian)	xdg-open index.html (or google-chrome index.html / firefox index.html)
-
+xdg-open index.html (or google-chrome index.html / firefox index.html)
+```
+Windows
+```bash
+start index.html(PowerShell)	
+```
+macOS
+```bash
+open index.html
 ```
